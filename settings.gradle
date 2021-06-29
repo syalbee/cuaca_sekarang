@@ -1,0 +1,2 @@
+rootProject.name = "cuaca sekarang"
+include ':app'
